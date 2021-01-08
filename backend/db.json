@@ -19,6 +19,46 @@
       "name": "Teclado Multilaser sem fio",
       "price": "190.63",
       "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "9.99",
+      "id": 11
+    },
+    {
+      "name": "Geladeira Frost Free",
+      "price": "1944.63",
+      "id": 12
     }
   ]
 }
