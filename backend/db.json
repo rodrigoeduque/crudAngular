@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.99
+    },
+    {
+      "id": 3,
+      "name": "Teclado Multilaser",
+      "price": 128.99
+    },
+    {
+      "name": "Teclado Multilaser sem fio",
+      "price": "190.63",
+      "id": 4
+    }
+  ]
+}
