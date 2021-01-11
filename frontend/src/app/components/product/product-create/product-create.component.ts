@@ -12,7 +12,7 @@ export class ProductCreateComponent implements OnInit {
 
   product: Product = {
     name: '',
-    price: null
+    price: 0
   }
 
   constructor(private productService: ProductService, private router: Router) { }
@@ -23,7 +23,7 @@ export class ProductCreateComponent implements OnInit {
 
   createProduct(): void {
     this.productService.create(this.product).subscribe(() => {
-      this.productService.showMessage('Produto Criado')
+      this.productService.showMessage('Produto Criado : ' + this.product.name)
       this.router.navigate(['/products'])
 
       //teste console log inserção

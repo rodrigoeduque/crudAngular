@@ -59,6 +59,41 @@
       "name": "Geladeira Frost Free",
       "price": "1944.63",
       "id": 12
+    },
+    {
+      "name": "Fone de Ouvido Beats",
+      "price": "500.00",
+      "id": 13
+    },
+    {
+      "name": "Monitor 24 polegadas",
+      "price": "1000.00",
+      "id": 14
+    },
+    {
+      "name": "aaaa",
+      "price": "9.99",
+      "id": 15
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "2",
+      "id": 16
+    },
+    {
+      "name": "PRODUTO PRECO = 0",
+      "price": "899.00",
+      "id": 17
+    },
+    {
+      "name": "Rodrigo",
+      "price": "500.00",
+      "id": 18
+    },
+    {
+      "name": "Caneta Azul azul Caneta",
+      "price": "10.89",
+      "id": 19
     }
   ]
 }
